@@ -38,4 +38,4 @@ Udžbenik kolegija dostupan je u korijenu repozitorija:
 
 Ovaj repozitorij je objavljen pod licencom [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 Slobodno koristite, dijelite i prilagođavajte materijale uz obavezno navođenje autora:
-**Zoran Vrhovski, Veleučilište u Bjelovaru**
+**Zoran Vrhovski, Danijel Radočaj, Veleučilište u Bjelovaru**
