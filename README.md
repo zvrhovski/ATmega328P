@@ -31,3 +31,11 @@ Svaki modul sadrži dvije mape:
 
 Udžbenik kolegija dostupan je u korijenu repozitorija:
 📄 `Mikroupravljaci - knjiga - vjezbe.pdf`
+
+## Licenca
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+Ovaj repozitorij je objavljen pod licencom [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Slobodno koristite, dijelite i prilagođavajte materijale uz obavezno navođenje autora:
+**Zoran Vrhovski, Veleučilište u Bjelovaru**
