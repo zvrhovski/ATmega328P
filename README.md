@@ -1,6 +1,6 @@
 # Mikroupravljači — ATmega328P
 
-Materijali za laboratorijske vježbe kolegija **Mikroupravljači** na Veleučilištu u Bjelovaru, uključujući skeletni kod vježbi, potpuna rješenja i udžbenik.
+Materijali za programe cjeloživotnog učenja iz područja **Mikroupravljači**, uključujući skeletni kod vježbi, potpuna rješenja i udžbenik.
 
 ## Sadržaj
 
